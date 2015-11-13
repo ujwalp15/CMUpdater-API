@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "",
-    "timestamp": "",
+    "url": "http://qc4.androidfilehost.com/dl/9Kd7npi63-mebieQ9nMvcA/1447614227/24269982086995312/cm-13.0-20151113-UNOFFICIAL-sprout4.zip",
+    "timestamp": "1447441543",
     "api_level": "23",
-    "md5sum": "",
-    "filename": "",
+    "md5sum": "18a67bd8f6649b2e3e5e4174cb4c788b",
+    "filename": "cm-13.0-20151113-UNOFFICIAL-sprout4.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
